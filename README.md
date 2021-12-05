@@ -1,4 +1,13 @@
 # XLR8_Bomber
-It is just for fun Cancel changes
-Don't take it as a serious
-All the best
+
+pkg up -y
+
+pkg install git wget python3
+
+git clone https://github.com/BATTULA-VEERABABU/XLR8_Bomber
+
+cd XLR8_Bomber
+
+python3 xlr8.py
+
+have a nice day:)
